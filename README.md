@@ -69,7 +69,7 @@ After downloading, place the dataset in the location expected by the preprocessi
 Open
 
 ```
-notebooks/crypto_abm_pipeline.ipynb
+notebooks/crypto_sentiment_pipeline_group 04.ipynb
 ```
 
 Run all notebook cells sequentially.
