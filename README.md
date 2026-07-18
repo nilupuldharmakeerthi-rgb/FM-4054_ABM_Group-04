@@ -111,7 +111,7 @@ Only the following files are required to run the NetLogo model:
 1. Open
 
 ```
-model/ABM_combined_final.nlogo
+model/ABM_Group 04_Herding Model.nlogo
 ```
 
 using NetLogo 7.0.3.
