@@ -11,7 +11,7 @@ Herding Behavior in Financial Markets Using Agent-Based Modeling
 ## How to Run
 
 ### Step 1: Generate sentiment data
-Open `notebooks/crypto_abm_pipeline.ipynb` in Google Colab.
+Open `notebooks/crypto_sentiment_pipeline_group04.ipynb` in Google Colab.
 Run Cells 1–8 in order.
 This produces `daily_sentiment_with_btc.csv` and `tweet_agents.csv`.
 
