@@ -1,7 +1,7 @@
 # Analyzing the Impact of Social Media Sentiment on Investor Herding Behavior in Financial Markets Using Agent-Based Modeling
 
 **Course:** FM 4054 – Agent-Based Modeling  
-**Institution:** Department of Finance, University of Colombo  
+**Institution:** Department of Mathematics, University of Colombo  
 **Group:** Group 04
 
 ---
@@ -56,7 +56,7 @@ Download the dataset from:
 
 **Kaggle Dataset**
 
-> **[Paste Kaggle Dataset Link Here]**
+> **[[Paste Kaggle Dataset Link Here]](https://www.kaggle.com/datasets/infsceps/cryptocurrency-tweets?select=Merged_Twitter_Data_IDsRemoved.csv)**
 
 After downloading, place the dataset in the location expected by the preprocessing notebook (or update the file path accordingly).
 
@@ -173,6 +173,6 @@ This repository contains
 
 FM 4054 – Agent-Based Modeling
 
-Department of Finance
+Department of Mathematics
 
 University of Colombo
